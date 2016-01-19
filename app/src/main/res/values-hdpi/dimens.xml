@@ -1,0 +1,5 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="watch_width">160dp</dimen>
+    <dimen name="watch_height">180dp</dimen>
+</resources>
